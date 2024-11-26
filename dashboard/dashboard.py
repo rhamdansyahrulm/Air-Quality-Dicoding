@@ -4,7 +4,7 @@ import streamlit as st
 from chart import *
 
 st.text(str(os.listdir()))
-data = pd.read_csv("clean_data.csv")
+data = pd.read_csv("dashboard/clean_data.csv")
 
 list_pol = list(data.columns[2:8])
 list_pol.sort()
