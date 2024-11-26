@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Data Analyst Project - Air Quality ✨
 
 ## Setup Environment - Anaconda
 ```
